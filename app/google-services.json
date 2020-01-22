@@ -1,0 +1,114 @@
+{
+  "project_info": {
+    "project_number": "853316252816",
+    "firebase_url": "https://fd-memes.firebaseio.com",
+    "project_id": "fd-memes",
+    "storage_bucket": "fd-memes.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:853316252816:android:581616ba43e28f36345415",
+        "android_client_info": {
+          "package_name": "com.stanapps.admob"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "853316252816-2kec4baaul3cl03b9okdi3dqpb5aggtm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.stanapps.admob",
+            "certificate_hash": "e9f77c45a6e4400b1bfea21e7a3c284cd1141d80"
+          }
+        },
+        {
+          "client_id": "853316252816-vn7s6mh2mjkbp3tdb7dgt1r93rog07pa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC51Hy3lcpWQnLYZZsHU9cSKhNvfz-mvuo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "853316252816-vn7s6mh2mjkbp3tdb7dgt1r93rog07pa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:853316252816:android:91a30d1139a6a4ba345415",
+        "android_client_info": {
+          "package_name": "com.stanapps.admobapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "853316252816-hg8h3plpl6jcajkkullu4hn04lfgh8b5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.stanapps.admobapp",
+            "certificate_hash": "e9f77c45a6e4400b1bfea21e7a3c284cd1141d80"
+          }
+        },
+        {
+          "client_id": "853316252816-vn7s6mh2mjkbp3tdb7dgt1r93rog07pa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC51Hy3lcpWQnLYZZsHU9cSKhNvfz-mvuo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "853316252816-vn7s6mh2mjkbp3tdb7dgt1r93rog07pa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:853316252816:android:289dfcb4dad5c3f1345415",
+        "android_client_info": {
+          "package_name": "tabian.com.efdmemes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "853316252816-vn7s6mh2mjkbp3tdb7dgt1r93rog07pa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC51Hy3lcpWQnLYZZsHU9cSKhNvfz-mvuo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "853316252816-vn7s6mh2mjkbp3tdb7dgt1r93rog07pa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
